@@ -2,7 +2,7 @@
 # Netflix Data Analysis using Python
 
 📊 Project Description
-This project analyzes Netflix dataset to uncover insights about content distribution, trends over time, and audience targeting.
+This project analyzes Netflix dataset to uncover insights about content distribution, trends over time, and audience targeting.It performs exploratory data analysis(EDA) on Netflix dataset to identify patterns.
 
 🛠 Tools Used
 - Python
