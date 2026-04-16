@@ -18,3 +18,9 @@ This project analyzes Netflix dataset to uncover insights about content distribu
 3. Content additions peaked around 2019.
 4. Netflix mainly targets mature audience (TV-MA rating).
 
+Visualization
+![Distribution of Ratings](Distribution of ratings.png)
+![Movies Vs Shows](Movies Vs Shows.png)
+![Top Countries Content](Top countries with content.png)
+![Content Per Year](content per year.png)
+
